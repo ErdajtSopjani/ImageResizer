@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eptl68A6Ti6inkJdt1OfldT9VBLiXYN6OAmtfzNKAMcJl/frElkUBiv6yFfGnaj7c/g7N6NrvBKn4v1BqZ3isA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ErdajtSopjani\\Desktop\\P9\\code\\c#\\projects\\7.ImageResizer\\7.imgresizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ErdajtSopjani\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ErdajtSopjani\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
