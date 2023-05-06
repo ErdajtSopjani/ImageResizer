@@ -82,7 +82,7 @@ Here are a couple of steps you can follow to get started with using ImageResizer
    
 4. If you only want to run this program you can run the .exe from your terminal
    ```js
-   .\resizeimage.exe -h;
+   .\resizeimage.exe -h
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
