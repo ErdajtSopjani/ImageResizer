@@ -37,39 +37,9 @@
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are really good Image Resizer's anywhere you look. But i decided to make one that both saves time and is easily accessable. I think I did a really good job achieving this since you can call this program anywhere from the terminal. But firs you have to run the .exe so it gets added to your file path. I think this project will save a lot of people their time.
 
@@ -90,8 +60,8 @@ Keep in mind this was only a begginer project i did as a way to test my skills w
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* 
+* https://img.shields.io/github/languages/top/ErdajtSopjani/ImageResizer?color=purple&style=for-the-badge
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,6 +127,4 @@ These are some usage examples for this program.
 [stars-url]: https://github.com/ErdajtSopjani/ImageResizer/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ErdajtSopjani/ImageResizer?style=for-the-badge
 [issues-url]: https://github.com/ErdajtSopjani/ImageResizer/issues
-[Laravel.com]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F17588&psig=AOvVaw3IqJX-XcIPTcZGplZXz5SL&ust=1683475192645000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCUtfmH4f4CFQAAAAAdAAAAABAE
-[Bootstrap.com]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmarwin1991%2Fprofile-technology-icons%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw3qEmTgIQcd60nMx9Xgjqa_&ust=1683475127990000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDT2t2H4f4CFQAAAAAdAAAAABAE
 
