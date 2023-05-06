@@ -92,17 +92,17 @@ Here are a couple of steps you can follow to get started with using ImageResizer
 These are some usage examples for this program.
 
 1. If you want more information on how to use it use -h
-  '''sh
+  ```sh
   resizeimage -h
-  '''
+  ```
 2. If you want to know an Image's width and height before you resize it use -i
-  '''sh
+  ```sh
   resizeimage -i null
-  '''
+  ```
 3. If you want to actually resize an image this is the use case: 
-  '''sh
+  ```sh
   resimeimage C:/path/to/image.png {width} {height}
-  '''
+  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
