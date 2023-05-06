@@ -33,6 +33,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![Capture](https://user-images.githubusercontent.com/120386306/236635821-cba3ce42-0173-4240-8694-c8f2c8c914f8.PNG)
+
 
 There are really good Image Resizer's anywhere you look. But i decided to make one that both saves time and is easily accessable. I think I did a really good job achieving this since you can call this program anywhere from the terminal. But firs you have to run the .exe so it gets added to your file path. I think this project will save a lot of people their time.
 
