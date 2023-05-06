@@ -55,9 +55,9 @@ Keep in mind this was only a begginer project i did as a way to test my skills w
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project was made with C# with DotNet core
 
-* [![Bootstrap][Bootstrap.com]]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,4 +124,4 @@ These are some usage examples for this program.
 [issues-shield]: https://img.shields.io/github/issues/ErdajtSopjani/ImageResizer?style=for-the-badge
 [issues-url]: https://github.com/ErdajtSopjani/ImageResizer/issues
 [Bootstrap.com]: https://img.shields.io/github/languages/top/ErdajtSopjani/ImageResizer?color=purple&style=for-the-badge
-
+[Bootstrap-url]: https://dotnet.microsoft.com/en-us/download
