@@ -6,15 +6,13 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ErdajtSopjani/ImageResizer">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a ![image](https://user-images.githubusercontent.com/120386306/236635491-56b18eee-550c-4b95-81ee-8d080d823efa.png)
+
   </a>
 
   <h3 align="center">Image Resizer by Erdajt Sopjani</h3>
