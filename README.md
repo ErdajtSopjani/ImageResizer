@@ -69,14 +69,17 @@ Here are a couple of steps you can follow to get started with using ImageResizer
   Here is a step-by-step guide on how you can run this program on your own device
 
 1. Make sure you have dotnet installed (only if you want to run it with dotnet)
-2. Clone the repo
+2. 
+3. Clone the repo
    ```sh
    git clone https://github.com/ErdajtSopjani/ImageResizer.git
    ```
+   
 3. Install NPM packages(if you want to run it with dotnet)
    ```sh
    dotnet add package System.Drawing.Common --version 5.0.0
    ```
+   
 4. If you only want to run this program you can run the .exe from your terminal
    ```js
    .\resizeimage.exe -h;
@@ -92,17 +95,17 @@ Here are a couple of steps you can follow to get started with using ImageResizer
 These are some usage examples for this program.
 
 1. If you want more information on how to use it use -h
-  ```sh
-  resizeimage -h
-  ```
+    ```sh
+      resizeimage -h
+    ```
 2. If you want to know an Image's width and height before you resize it use -i
-  ```sh
-  resizeimage -i null
-  ```
+    ```sh
+      resizeimage -i null
+    ```
 3. If you want to actually resize an image this is the use case: 
-  ```sh
-  resimeimage C:/path/to/image.png {width} {height}
-  ```
+    ```sh
+      resimeimage C:/path/to/image.png {width} {height}
+    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
