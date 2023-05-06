@@ -11,16 +11,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a ![image](https://user-images.githubusercontent.com/120386306/236635491-56b18eee-550c-4b95-81ee-8d080d823efa.png)
+  ![image](https://user-images.githubusercontent.com/120386306/236635519-d53f481f-8c81-4389-86d1-ca58590a85c1.png)
 
-  </a>
 
   <h3 align="center">Image Resizer by Erdajt Sopjani</h3>
 
   <p align="center">
     An awesome Image Resizer you can call anywhere from your terminal!
-    <br />
-    <a href="https://github.com/ErdajtSopjani/ImageResizer"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ErdajtSopjani/ImageResizer">View Demo</a>
