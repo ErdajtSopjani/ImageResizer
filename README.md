@@ -11,7 +11,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  ![image](https://user-images.githubusercontent.com/120386306/236635519-d53f481f-8c81-4389-86d1-ca58590a85c1.png)
+  
+  ![image](https://user-images.githubusercontent.com/120386306/236635548-c670900e-0dd9-4093-b9b2-327a92ee691a.png)
 
 
   <h3 align="center">Image Resizer by Erdajt Sopjani</h3>
