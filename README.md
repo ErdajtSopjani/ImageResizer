@@ -52,7 +52,7 @@ Keep in mind this was only a begginer project i did as a way to test my skills w
 
 
 ### Built With
-
+<br>
 This project was made with C# with DotNet core
 
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
