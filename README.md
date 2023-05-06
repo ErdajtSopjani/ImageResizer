@@ -69,8 +69,8 @@ Here are a couple of steps you can follow to get started with using ImageResizer
   Here is a step-by-step guide on how you can run this program on your own device
 
 1. Make sure you have dotnet installed (only if you want to run it with dotnet)
-2. 
-3. Clone the repo
+
+2. Clone the repo
    ```sh
    git clone https://github.com/ErdajtSopjani/ImageResizer.git
    ```
