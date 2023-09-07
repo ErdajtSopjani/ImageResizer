@@ -80,7 +80,7 @@ Here are a couple of steps you can follow to get started with using ImageResizer
    git clone https://github.com/ErdajtSopjani/ImageResizer.git
    ```
    
-3. Install NPM packages(if you want to run it with dotnet)
+3. Install .NET packages(if you want to run it with dotnet)
    ```sh
    dotnet add package System.Drawing.Common --version 5.0.0
    ```
