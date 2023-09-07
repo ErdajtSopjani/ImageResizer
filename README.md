@@ -14,6 +14,7 @@
   
   ![image](https://user-images.githubusercontent.com/120386306/236635548-c670900e-0dd9-4093-b9b2-327a92ee691a.png)
 
+Check out the releases: https://github.com/ErdajtSopjani/releases
 
   <h3 align="center">Image Resizer by Erdajt Sopjani</h3>
 
@@ -75,10 +76,9 @@ Here are a couple of steps you can follow to get started with using ImageResizer
 
 1. Make sure you have dotnet installed (only if you want to run it with dotnet)
 
-2. Clone the repo
-   ```sh
-   git clone https://github.com/ErdajtSopjani/ImageResizer.git
-   ```
+2. Go to releases
+
+   https://github.com/ErdajtSopjani/ImageResizer/releases
    
 3. Install .NET packages(if you want to run it with dotnet)
    ```sh
@@ -86,7 +86,7 @@ Here are a couple of steps you can follow to get started with using ImageResizer
    ```
    
 4. If you only want to run this program you can run the .exe from your terminal
-   ```js
+   ```sh
    .\resizeimage.exe -h
    ```
 
